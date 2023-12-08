@@ -1,0 +1,14 @@
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\bin\Debug\net6.0\5dekabrtask.exe
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\bin\Debug\net6.0\5dekabrtask.deps.json
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\bin\Debug\net6.0\5dekabrtask.runtimeconfig.json
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\bin\Debug\net6.0\5dekabrtask.dll
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\bin\Debug\net6.0\5dekabrtask.pdb
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\5dekabrtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\5dekabrtask.AssemblyInfoInputs.cache
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\5dekabrtask.AssemblyInfo.cs
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\5dekabrtask.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\5dekabrtask.dll
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\refint\5dekabrtask.dll
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\5dekabrtask.pdb
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\5dekabrtask.genruntimeconfig.cache
+C:\Users\TUF\Desktop\task 5 dekabr\5dekabrtask\5dekabrtask\obj\Debug\net6.0\ref\5dekabrtask.dll
